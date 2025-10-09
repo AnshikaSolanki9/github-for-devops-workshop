@@ -14,3 +14,13 @@ git status
  git restore testing.py
  clear
  git status
+
+ git remote add origin https://github.com/Anshika09
+git remote -v
+git status
+
+git remote set-url origin 
+clear
+git remote -v
+git push origin master
+clear
