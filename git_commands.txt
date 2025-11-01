@@ -21,9 +21,9 @@ git status
 
 git remote set-url origin 
 clear
+
 git remote -v
 git push origin master
 clear
-
 
 this is some new changes
